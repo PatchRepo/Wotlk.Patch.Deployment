@@ -1,0 +1,22 @@
+## Interface: 30300
+## Title: Blizzard_Transmog
+## Secure: 0
+## Author: Blizzard Entertainment
+## Version: 1.0
+## LoadOnDemand: 0
+## SavedVariables: TransmogSettings
+
+db\ItemsDB.lua
+db\ItemsAPI.lua
+db\PreviewSetupDB.lua
+db\PreviewSetupAPI.lua
+
+frames\QueryItem.lua
+frames\WowheadURL.lua
+frames\DressingRoom.lua
+frames\PreviewList.lua
+frames\ListFrame.lua
+
+Blizzard_Transmog.lua
+Blizzard_Transmog.xml
+Localization.lua

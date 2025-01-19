@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Blizzard_AccountItemBankUI
+## Secure: 0
+## Author: Blizzard Entertainment
+## Version: 1.0
+## LoadOnDemand: 0
+Blizzard_AccountItemBankUI.xml
+Localization.lua
